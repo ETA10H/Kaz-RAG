@@ -1,8 +1,8 @@
 # Kaz-RAG
 These data were derived from the following resources available in the public domain: 
 
-https://kk.wikipedia.org/wiki/Дарийдің_Скифияға_жорығы, 
-https://kk.wikipedia.org/wiki/Гурхан, 
+- https://kk.wikipedia.org/wiki/Дарийдің_Скифияға_жорығы, 
+- https://kk.wikipedia.org/wiki/Гурхан, 
 https://kk.wikipedia.org/wiki/Қазақстан_тарихы, 
 https://kk.wikipedia.org/wiki/Рақымжан_Қошқарбаев, 
 https://kk.wikipedia.org/wiki/Махамбет_Өтемісұлы, 
